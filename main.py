@@ -7,6 +7,3 @@ print('Hi Again')
 
 def foo(x):
   return x
-
-def soo(y):
-  return y
