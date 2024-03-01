@@ -7,3 +7,6 @@ print('Hi Again')
 
 def foo(x):
   return x
+
+def foo2(y):
+  return y
