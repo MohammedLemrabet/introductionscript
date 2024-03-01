@@ -10,3 +10,6 @@ def foo(x):
 
 def foo2(y):
   return y
+
+def foo3(z):
+  return z
